@@ -1,4 +1,5 @@
-[![author](https://img.shields.io/badge/author-rafaelnduarte-red.svg)](https://www.linkedin.com/in/rafael-n-duarte/) [![](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/Churn_Prediction)
+[![author](https://img.shields.io/badge/author-rafaelnduarte-red.svg)](https://www.linkedin.com/in/rafael-n-duarte/) [![](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/Lead_Scoring
+)
 
 # Lead Scoring
 
@@ -6,7 +7,7 @@
 
 **Lead Scoring** is a method of ranking and prioritizing potential customers or leads based on their level of interest and engagement with a company's products or services. It involves assigning a numerical value or score to each lead based on their behavior and demographics, such as website visits, email opens, and job title.
 
-## [Click here to check out the Project](https://github.com/rafaelnduarte/Churn_Prediction/blob/main/Churn_Prediction.ipynb)
+## [Click here to check out the Project](https://github.com/rafaelnduarte/Lead_Scoring/blob/main/Lead_Scoring_Marketing_Optimization.ipynb)
 
 > The purpose of lead scoring is to identify which leads are most likely to convert into customers and which ones require more nurturing. By focusing on the most promising leads, companies can maximize their sales efforts and improve their return on investment.
 
